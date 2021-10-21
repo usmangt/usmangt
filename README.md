@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 - 👋 I am Syed Usman Ahmad.
 - 👀 I’m interested in improving my knowledge on DevOps side and especially in there area of providing Tecnhical Support where all Troubeshooting start for any sort of cluster Environment.
