@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning tools like Ansilbe, Terraform and further polishing my skills on K8s, Helm.
 - 👯 I’m also looking to collaborate on any of the projects which involve Linux and can help to give suggestion and feedback on it but if you have cool ideas or want to collaborate on a project, please feel free to contact me.
 - 💬 You can also ask me for and help, guidence regaridng Linux, Bash, Mail Servers, Kubernetes, HELM etc. without any hesitaton. I am happy to share my knowledge and who knows can learn a few new stuff. 
-- 📫 How to reach me? At [github specific hotmail account](mailto:syed_usman_ahmed@hotmail.com?subject=[GitHub]%20Hello%20from%20Github). Additionally, you can reach me via [Linkedin](https://www.linkedin.com/in/syed-usman-ahmad-b1415515/).
+- 📫 How to reach me? You can reach me via [Linkedin](https://www.linkedin.com/in/syed-usman-ahmad-b1415515/).
 
 
 <!--
