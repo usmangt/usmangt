@@ -6,7 +6,7 @@
 - 👯 I’m also looking to collaborate on any of the projects which involve Linux and can help to give suggestion and feedback on it but if you have cool ideas or want to collaborate on a project, please feel free to contact me.
 - 💬 You can also ask me for and help, guidence regaridng Linux, Bash, Mail Servers, Kubernetes, HELM etc. without any hesitaton. I am happy to share my knowledge and who knows can learn a few new stuff. 
 - 📫 How to reach me? You can reach me via [Linkedin](https://www.linkedin.com/in/syed-usman-ahmad-b1415515/).
-- - ⚡ Want to see my past projects as an [Independent IT Consultant](https://www.upwork.com/freelancers/~013333e41cd5844e37?viewMode=1) when lived in Sweden.
+- ⚡ Want to see my past projects as an [Independent IT Consultant](https://www.upwork.com/freelancers/~013333e41cd5844e37?viewMode=1) when lived in Sweden.
 
 
 <!--
