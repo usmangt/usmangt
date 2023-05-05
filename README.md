@@ -1,6 +1,8 @@
-### Hi there
+<!-- ### Hi there -->
+<h2 align="center">Hi there, I'm Usman Ahmad <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-- 👋 I am Syed Usman Ahmad.
+
+<!-- - 👋 I am Syed Usman Ahmad. -->
 - 👀 I’m interested in improving my knowledge on DevOps side and especially in there area of providing Technical Support where all Troubeshooting start for any sort of cluster Environment.
 - 🌱 I’m currently learning tools like Ansilbe, Terraform and further polishing my skills on K8s, Helm.
 - 👯 I’m also looking to collaborate on any of the projects which involve Linux and can help to give suggestion and feedback on it but if you have cool ideas or want to collaborate on a project, please feel free to contact me.
