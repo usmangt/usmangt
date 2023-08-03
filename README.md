@@ -8,10 +8,13 @@
 - 👯 I’m also looking to collaborate on any of the projects which involve Linux and can help to give suggestions and feedback on it but if you have cool ideas or want to collaborate on a project, please feel free to contact me.
 - 💬 You can also ask me for any help, or guidance regarding Linux, Bash, Mail Servers, Kubernetes, HELM, etc. without any hesitation. I am happy to share my knowledge and who knows can learn a few new stuff. 
 - 📫 How to reach me? You can reach me via [**Linkedin**](https://www.linkedin.com/in/syed-usman-ahmad-b1415515/).
+
 - 📺 Subscribe to my **[Youtube Channel](https://www.youtube.com/@freelinuxtutorials)** to watch tutorials about Linux and Open source tools
+
 - ⛑️ Ask me if you have any questions, or suggestions about the **[Grafana OSS](https://community.grafana.com/u/usman.ahmad/summary)** community support.
+
 - 📝 Want to read my **[Blogs](https://medium.com/@syed_usman_ahmed)** to remain up to date !!
-- 
+
 - ⚡ Want to see my past projects as an [Independent IT Consultant](https://www.upwork.com/freelancers/~013333e41cd5844e37?viewMode=1) when lived in Sweden 🇸🇪.
 
 
