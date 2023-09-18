@@ -5,7 +5,7 @@
 <!-- - 👋 I am Syed Usman Ahmad. -->
 - 👀 I’m interested in improving my knowledge as a Developer Advocate and especially in areas such as public speaking, technical documentation, community support.
 - 🌱 I’m currently learning tools like Kubernetes, Prometheus ArgoCD, etc. and further polishing my skills on Helm and observability stack e.g. Prometheus.
-- 👯 I’m also looking to collaborate on any of the projects which involve Linux and can help to give suggestions and feedback on it but if you have cool ideas or want to collaborate on a project, please feel free to contact me.
+- 👯 I will be interested in collaborating on any of the projects which involve Linux and can help to give suggestions and feedback on it but if you have cool ideas or want to collaborate on a project, please feel free to contact me.
 - 💬 You can also ask me for any help, or guidance regarding Linux, Bash, Mail Servers, Kubernetes, HELM, etc. without any hesitation. I am happy to share my knowledge and who knows can learn a few new stuff. 
 - 📫 How to reach me? You can reach me via [**Linkedin**](https://www.linkedin.com/in/syed-usman-ahmad-b1415515/).
 
