@@ -17,7 +17,7 @@
 
 - ⚡ Want to see my past projects as an [Independent IT Consultant](https://www.upwork.com/freelancers/~013333e41cd5844e37?viewMode=1) when lived in Sweden 🇸🇪 (:closed_lock_with_key: You need to login to view it).
 
-- 🔭 Useful links and resources to **[MY TALKS](https://github.com/usmangt/leveling-up-grafana)** 🌠
+- 🔭 Useful links and resources to **[MY TALKS](https://github.com/usmangt/leveling-up-grafana](https://github.com/usmangt/talks/tree/master/2023/oct/conference)** 🌠
 
 <!--
 **usmangt/usmangt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
