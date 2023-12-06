@@ -3,6 +3,7 @@
 
 <h4 align="center">Currently working as a Senior Developer Advocate <a href="https://grafana.com/" title="The Complete Open Source Observability Solution" >@Grafana Labs</a></h4>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usmangt&label=Profile%20views&color=0e75b6&style=flat" alt="usmangt" /> </p>
 
 
 
