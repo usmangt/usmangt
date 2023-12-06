@@ -1,6 +1,12 @@
 <!-- ### Hi there -->
 <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Usman</h2>
 
+<h4 align="center">Currently working as a Senior Developer Advocate <a href="https://grafana.com/" title="The Complete Open Source Observability Solution" >@Grafana Labs</a></h4>
+
+
+
+
+
 
 <!-- - 👋 I am Syed Usman Ahmad. -->
 - 👀 I’m interested in improving my knowledge as a Developer Advocate and especially in areas such as public speaking, technical documentation, community support.
