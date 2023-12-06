@@ -9,13 +9,17 @@
 
 
 
-<h3 align="left">About me:</h3>
+<h3 align="left">About myself:</h3>
 
 <!-- - 👋 I am Syed Usman Ahmad. -->
 - 👀 I’m interested in improving my knowledge as a Developer Advocate and especially in areas such as public speaking, technical documentation, community support.
+
 - 🌱 I’m currently learning tools like Kubernetes, Prometheus ArgoCD, etc. and further polishing my skills on Helm and observability stack e.g. Prometheus.
+
 - 👯 I will be interested in collaborating on any of the projects which involve Linux and can help to give suggestions and feedback on it but if you have cool ideas or want to collaborate on a project, please feel free to contact me.
-- 💬 You can also ask me for any help, or guidance regarding Linux, Bash, Mail Servers, Kubernetes, HELM, etc. without any hesitation. I am happy to share my knowledge and who knows can learn a few new stuff. 
+
+- 💬 You can also ask me for any help, or guidance regarding Linux, Bash, Mail Servers, Kubernetes, HELM, etc. without any hesitation. I am happy to share my knowledge and who knows can learn a few new stuff.
+<!-- -
 - 📫 How to reach me? You can reach me via [**Linkedin**](https://www.linkedin.com/in/syed-usman-ahmad-b1415515/).
 
 - 📺 Subscribe to my **[Youtube Channel](https://www.youtube.com/@freelinuxtutorials)** to watch tutorials about Linux and Open source tools
@@ -23,11 +27,32 @@
 - ⛑️ Ask me if you have any questions, or suggestions about the **[Grafana OSS](https://community.grafana.com/u/usman.ahmad/summary)** community support.
 
 - 📝 Want to read my **[Blogs](https://medium.com/@syed_usman_ahmed)** to remain up to date !!
-
+-->
 - ⚡ Want to see my past projects as an [Independent IT Consultant](https://www.upwork.com/freelancers/~013333e41cd5844e37?viewMode=1) when lived in Sweden 🇸🇪 (You need to login to view it).
 
 - 🔭 Useful links and resources to **[MY TALKS](https://github.com/usmangt/talks/tree/master)** 🌠
 
+<h3 align="left">Connect with me:</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/syed-usman-ahmad-b1415515/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@freelinuxtutorials" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Free%20Tutorials&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://grafana.slack.com/team/U03N48VMCJH" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
+  </a>
+  <a href="https://medium.com/@syed_usman_ahmed" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://community.grafana.com/u/usman.ahmad/summary" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Grafana%20OSS%20Community&logo=codesandbox&label=&color=040404&logoColor=orange&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
+  </a>
+</div>
+
+###
 
 <h3 align="left">My GitHub Stats:</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=usmangt&show_icons=true&locale=en" alt="usmangt" /></p>
