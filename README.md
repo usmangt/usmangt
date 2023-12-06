@@ -9,7 +9,7 @@
 
 
 
-<h3 align="left">About myself:</h3>
+<h3 align="left">👤 About myself:</h3>
 
 <!-- - 👋 I am Syed Usman Ahmad. -->
 - 👀 I’m interested in improving my knowledge as a Developer Advocate and especially in areas such as public speaking, technical documentation, community support.
