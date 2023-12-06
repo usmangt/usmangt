@@ -59,8 +59,20 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=usmangt&" alt="usmangt" /></p>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/usman.ahmad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="usman.ahmad" /></a></p><br><br>
+<!--<h3 align="left">Small contribution to support my work:</h3>
+<p><a href="https://www.buymeacoffee.com/usman.ahmad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/nord.png" height="50" width="210" alt="usman.ahmad" /></a></p><br><br>
+-->
+
+<h3 align="left">📝 Recent Publications</h3>
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=syed_usman_ahmed&theme=gruvbox" alt="My recent published Articles on medium.com"  />
+</div>
+
+
+
+
+
+
 
 <!--
 **usmangt/usmangt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
