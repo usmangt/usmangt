@@ -52,7 +52,10 @@
   </a>
 </div>
 
-###
+<h3 align="left">📝 Recent Publications</h3>
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=syed_usman_ahmed&theme=gruvbox" alt="My recent published Articles on medium.com"  />
+</div>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=usmangt&show_icons=true&locale=en" alt="usmangt" /></p>
@@ -63,10 +66,7 @@
 <p><a href="https://www.buymeacoffee.com/usman.ahmad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/nord.png" height="50" width="210" alt="usman.ahmad" /></a></p><br><br>
 -->
 
-<h3 align="left">📝 Recent Publications</h3>
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=syed_usman_ahmed&theme=gruvbox" alt="My recent published Articles on medium.com"  />
-</div>
+
 
 
 
