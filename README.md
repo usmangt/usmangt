@@ -30,8 +30,8 @@
 
 
 <h3 align="left">My GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=usmangt&show_icons=true&locale=en" alt="usmangt" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=usmangt&" alt="usmangt" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=usmangt&show_icons=true&locale=en" alt="usmangt" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=usmangt&" alt="usmangt" /></p>
 
 
 <h3 align="left">Support:</h3>
