@@ -52,7 +52,7 @@
   </a>
 </div>
 
-<h3 align="left">📝 Recent Publications</h3>
+<h3 align="left">📝 My recent Publications</h3>
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=syed_usman_ahmed&theme=gruvbox" alt="My recent published Articles on medium.com"  />
 </div>
