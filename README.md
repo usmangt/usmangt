@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">My GitHub Stats:</h3>
+<h3 align="left">📊 GitHub Stats:</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=usmangt&show_icons=true&locale=en" alt="usmangt" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=usmangt&" alt="usmangt" /></p>
 
