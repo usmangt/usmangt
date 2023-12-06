@@ -32,7 +32,7 @@
 
 - 🔭 Useful links and resources to **[MY TALKS](https://github.com/usmangt/talks/tree/master)** 🌠
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📌 Connect with me:</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/syed-usman-ahmad-b1415515/" target="_blank">
