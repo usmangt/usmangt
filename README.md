@@ -24,7 +24,7 @@
 
 - 📝 Want to read my **[Blogs](https://medium.com/@syed_usman_ahmed)** to remain up to date !!
 
-- ⚡ Want to see my past projects as an [Independent IT Consultant](https://www.upwork.com/freelancers/~013333e41cd5844e37?viewMode=1) when lived in Sweden 🇸🇪 (:closed_lock_with_key: You need to login to view it).
+- ⚡ Want to see my past projects as an [Independent IT Consultant](https://www.upwork.com/freelancers/~013333e41cd5844e37?viewMode=1) when lived in Sweden 🇸🇪 (You need to login to view it).
 
 - 🔭 Useful links and resources to **[MY TALKS](https://github.com/usmangt/talks/tree/master)** 🌠
 
