@@ -9,7 +9,7 @@
 
 
 
-<h3 align="left">👤 About myself:</h3>
+## 👤 About myself:
 
 <!-- - 👋 I am Syed Usman Ahmad. -->
 - 👀 I’m interested in improving my knowledge as a Developer Advocate and especially in areas such as public speaking, technical documentation, community support.
@@ -32,7 +32,7 @@
 
 - 🔭 Useful links and resources to **[MY TALKS](https://github.com/usmangt/talks/tree/master)** 🌠
 
-<h3 align="left">📌 Connect with me:</h3>
+## 📌 Connect with me:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/syed-usman-ahmad-b1415515/" target="_blank">
@@ -55,12 +55,12 @@
   </a>
 </div>
 
-<h3 align="left">📝 My recent Publications:</h3>
+## 📝 My Recent Publications:
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=syed_usman_ahmed&theme=gruvbox" alt="My recent published Articles on medium.com"  />
 </div>
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 📊 GitHub Stats:
 <p><img src="https://github-readme-stats.vercel.app/api?username=usmangt&show_icons=true&locale=en" alt="usmangt" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=usmangt&" alt="usmangt" /></p>
 
