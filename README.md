@@ -4,9 +4,6 @@
 <h4 align="center">Currently working as a Senior Developer Advocate at <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
 </h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usmangt&label=Profile%20views&color=0e75b6&style=flat" alt="usmangt" /> </p>
-
-
 
 
 ## 👤 About myself:
@@ -61,9 +58,21 @@
 </div>
 
 ## 📊 GitHub Stats:
-<p><img src="https://github-readme-stats.vercel.app/api?username=usmangt&show_icons=true&locale=en" alt="usmangt" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=usmangt&" alt="usmangt" /></p>
 
+
+
+<div align="center">
+<a href="https://github.com/usmangt">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmangt&show_icons=true&locale=en" alt="usmangt" height="180em" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmangt&" alt="usmangt" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usmangt&theme=github" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmangt&theme=github" height="180em" />
+</div>
+
+<br/>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=usmangt&label=Profile%20views&color=0e75b6&style=flat" alt="usmangt" /> </p>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <!--<h3 align="left">Small contribution to support my work:</h3>
 <p><a href="https://www.buymeacoffee.com/usman.ahmad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/nord.png" height="50" width="210" alt="usman.ahmad" /></a></p><br><br>
