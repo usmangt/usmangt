@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
   </a>
   <a href="https://community.grafana.com/u/usman.ahmad/summary" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Grafana%20OSS%20Community%20Solutions&logo=codesandbox&label=&color=040404&logoColor=orange&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
+    <img src="https://img.shields.io/static/v1?message=Grafana%20Solutions&logo=codesandbox&label=&color=040404&logoColor=orange&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
   </a>
     <a href="https://usman-ahmad-portfolio.mozellosite.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20Website&logo=codesandbox&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
