@@ -52,19 +52,18 @@
   </a>
 </div>
 
+<!-- 
 ## 📝 My Recent Publications:
+
 <div align="center">
-<img src="https://github-readme-medium.vercel.app/?username=syed_usman_ahmed&limit=4" alt="My recent published Articles on medium.com"  />
+<img src="https://github-readme-medium.vercel.app/?username=@syed_usman_ahmed&limit=4" alt="My recent published Articles on medium.com"  />
 </div>
-
-
-<!--  
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=syed_usman_ahmed&theme=gruvbox" alt="My recent published Articles on medium.com"  />
-  [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=syed_usman_ahmed&limit=4)](https://medium.com/@syed_usman_ahmed)
 
 -->
 
-
+<!-- 
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=syed_usman_ahmed&theme=gruvbox" alt="My recent published Articles on medium.com"/>
+-->
 
 
 ## 📊 GitHub Stats:
