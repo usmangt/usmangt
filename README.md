@@ -4,31 +4,6 @@
 <h4 align="center">Currently working as a Senior Developer Advocate at <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
 </h4>
 
-
-
-## 👤 About myself:
-
-<!-- - 👋 I am Syed Usman Ahmad. -->
-- 👀 I’m interested in improving my knowledge as a Developer Advocate and especially in areas such as public speaking, technical documentation, community support.
-
-- 🌱 I’m currently learning tools like Kubernetes, Loki, Prometheus, ArgoCD, etc. and further polishing my skills on Helm and observability stack e.g. Opentelementry.
-
-- 👯 I will be interested in collaborating on any of the projects involving Linux and can help give suggestions and feedback on it. If you have cool ideas or want to collaborate on a project, please feel free to contact me.
-
-- 💬 You can also ask me for any help, or guidance regarding Linux, Bash, Mail Servers, Kubernetes, HELM, etc. without any hesitation. I am happy to share my knowledge and who knows, I can learn a few new tricks as well !!
-<!-- -
-- 📫 How to reach me? You can reach me via [**Linkedin**](https://www.linkedin.com/in/syed-usman-ahmad-b1415515/).
-
-- 📺 Subscribe to my **[Youtube Channel](https://www.youtube.com/@freelinuxtutorials)** to watch tutorials about Linux and Open source tools
-
-- ⛑️ Ask me if you have any questions, or suggestions about the **[Grafana OSS](https://community.grafana.com/u/usman.ahmad/summary)** community support.
-
-- 📝 Want to read my **[Blogs](https://medium.com/@syed_usman_ahmed)** to remain up to date !!
--->
-- ⚡ Want to see my past projects as an [Independent IT Consultant](https://www.upwork.com/freelancers/~013333e41cd5844e37?viewMode=1) when lived in Sweden 🇸🇪 (You need to login to view it).
-
-- 🔭 Useful links and resources to **[MY TALKS](https://github.com/usmangt/talks/tree/master)** 🌠
-
 ## 📌 Connect with me:
 
 <div align="center">
@@ -36,7 +11,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@freelinuxtutorials" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Free%20Tutorials&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Free%20Open%20Source%20Tutorials&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
   <a href="https://grafana.slack.com/team/U03N48VMCJH" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
@@ -64,6 +39,31 @@
 <!-- 
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=syed_usman_ahmed&theme=gruvbox" alt="My recent published Articles on medium.com"/>
 -->
+
+
+## 👤 More About myself:
+
+<!-- - 👋 I am Syed Usman Ahmad. -->
+- 👀 I’m interested in improving my knowledge as a Developer Advocate and especially in areas such as public speaking, technical documentation, community support.
+
+- 🌱 I’m currently learning tools like Kubernetes, Loki, Prometheus, ArgoCD, etc. and further polishing my skills on Helm and observability stack e.g. Opentelementry.
+
+- 👯 I will be interested in collaborating on any of the projects involving Linux and can help give suggestions and feedback on it. If you have cool ideas or want to collaborate on a project, please feel free to contact me.
+
+- 💬 You can also ask me for any help, or guidance regarding Linux, Bash, Mail Servers, Kubernetes, HELM, etc. without any hesitation. I am happy to share my knowledge and who knows, I can learn a few new tricks as well !!
+<!-- -
+- 📫 How to reach me? You can reach me via [**Linkedin**](https://www.linkedin.com/in/syed-usman-ahmad-b1415515/).
+
+- 📺 Subscribe to my **[Youtube Channel](https://www.youtube.com/@freelinuxtutorials)** to watch tutorials about Linux and Open source tools
+
+- ⛑️ Ask me if you have any questions, or suggestions about the **[Grafana OSS](https://community.grafana.com/u/usman.ahmad/summary)** community support.
+
+- 📝 Want to read my **[Blogs](https://medium.com/@syed_usman_ahmed)** to remain up to date !!
+-->
+- ⚡ Want to see my past projects as an [Independent IT Consultant](https://www.upwork.com/freelancers/~013333e41cd5844e37?viewMode=1) when lived in Sweden 🇸🇪 (You need to login to view it).
+
+- 🔭 Useful links and resources to **[MY TALKS](https://github.com/usmangt/talks/tree/master)** 🌠
+
 
 
 ## 📊 GitHub Stats:
