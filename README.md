@@ -25,6 +25,10 @@
     <a href="https://usman-ahmad-portfolio.mozellosite.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20Website&logo=codesandbox&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
   </a>
+    </a>
+    <a href="https://x.com/usahmad87" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter%20X&logo=codesandbox&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
 </div>
 
 <!-- 
