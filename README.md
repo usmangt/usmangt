@@ -12,29 +12,31 @@
   <a href="https://www.linkedin.com/in/syed-usman-ahmad-b1415515/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@freelinuxtutorials" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Free%20Open%20Source%20Tutorials&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://grafana.slack.com/team/U03N48VMCJH" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
-  </a>
   <a href="https://medium.com/@syed_usman_ahmed" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
   </a>
-  <a href="https://community.grafana.com/u/usman.ahmad/summary" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Grafana%20Solutions&logo=codesandbox&label=&color=040404&logoColor=orange&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
-  </a>
-    <a href="https://usman-ahmad-portfolio.mozellosite.com/" target="_blank">
+  <a href="https://usman-ahmad-portfolio.mozellosite.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20Website&logo=codesandbox&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
   </a>
-    </a>
-    <a href="https://x.com/usahmad87" target="_blank">
+  <a href="https://x.com/usahmad87" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter%20X&logo=codesandbox&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
+  <a href="https://www.youtube.com/@freelinuxtutorials" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Free%20Open%20Source%20Tutorials&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>  
 </div>
 
 <!-- 
 ## 📝 My Recent Publications:
+
+  <a href="https://grafana.slack.com/team/U03N48VMCJH" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
+  </a>
+  <a href="https://community.grafana.com/u/usman.ahmad/summary" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Grafana%20Solutions&logo=codesandbox&label=&color=040404&logoColor=orange&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
+  </a>
+
+
 
 <div align="center">
 <img src="https://github-readme-medium.vercel.app/?username=@syed_usman_ahmed&limit=4" alt="My recent published Articles on medium.com"  />
