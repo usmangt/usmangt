@@ -3,8 +3,8 @@
 
 <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Usman</h2>
 
-<h4 align="center">Currently working as a Staff Developer Advocate at <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://sva.de/sites/default/files/styles/partners_block/public/2023-08/grafana-logo-sva-2023-1.png" alt="Grafana" height="50" /></a>  
-</h4>
+<h2 align="center">Currently working as a Staff Developer Advocate at <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://sva.de/sites/default/files/styles/partners_block/public/2023-08/grafana-logo-sva-2023-1.png" alt="Grafana" height="50" /></a>  <h2 align="center">
+</h3>
 
 ## 📌 Connect with me:
 
