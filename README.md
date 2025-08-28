@@ -9,21 +9,35 @@
 ## 📌 Connect with me:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/syed-usman-ahmad-b1415515/" target="_blank">
+  <a href="https://www.linkedin.com/in/syed-usman-ahmad-b1415515" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@freelinuxtutorials" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Free%20Open%20Source%20Tutorials&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
   <a href="https://medium.com/@syed_usman_ahmed" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
   </a>
-  <a href="https://usman-ahmad-portfolio.mozellosite.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My%20Website&logo=codesandbox&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
+  <a href="https://dev.to/usmangt" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="40" alt="dev.to logo"  />
   </a>
+  <a href="https://usman-ahmad-portfolio.mozellosite.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My%20Portfolio&logo=codesandbox&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
+  </a>
+</div>  
+<div align="center">
   <a href="https://x.com/usahmad87" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter%20X&logo=codesandbox&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter%20X&logo=codesandbox&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.youtube.com/@freelinuxtutorials" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Free%20Open%20Source%20Tutorials&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  </a>  
+  <a href="https://www.instagram.com/freelinuxtutorials" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.tiktok.com/@usmanlinux" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" height="40" alt="tiktok logo"  />
+  </a>
+  <a href="https://bsky.app/profile/freelinuxtutorials.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white" height="40" alt="bluesky logo"  />
+  </a>
 </div>
 
 <!-- 
